@@ -1,7 +1,8 @@
-{
+{[{
   "Name": "akhila",
   "Email": "hello",
   "Place": "Hyderabad",
   "Phone": 8765456773,
   "Password": "password"
+}]
 }
